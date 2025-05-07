@@ -16,3 +16,8 @@ Este projeto é uma dashboard interativa desenvolvida no Power BI com foco na an
 - Análise de vendas por região e por produto
 - Indicadores de desempenho (KPIs)
 - Filtros interativos por data, produto e vendedor
+
+🚀 Como visualizar
+
+1. Baixe o arquivo `.pbix`
+2. Abra no [Power BI Desktop](https://powerbi.microsoft.com/pt-br/desktop/)
